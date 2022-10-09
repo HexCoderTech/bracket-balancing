@@ -32,11 +32,4 @@ def bracket_balancing(expression):
 
 
 if __name__ == '__main__':
-    expression = input('Enter an expression: ')
-    if expression.strip() == '':
-        print('No expression entered.')
- 
-    elif bracket_balancing(expression):
-        print('Balanced')
-    else:
-        print('Not balanced')
+    print("Hello World!")
