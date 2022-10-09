@@ -33,3 +33,4 @@ def bracket_balancing(expression):
 
 if __name__ == '__main__':
     print("I'm learning Python!")
+    print("Hello World!")
